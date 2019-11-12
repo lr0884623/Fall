@@ -1,0 +1,22 @@
+{
+  "name": "gitpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lr0884623/Fall.git"
+  },
+  "author": "Levi Rhoads",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lr0884623/Fall/issues"
+  },
+  "homepage": "https://github.com/lr0884623/Fall#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
